@@ -1,1 +1,2 @@
-print("Mai")
+def printname():
+    return "Mai"
