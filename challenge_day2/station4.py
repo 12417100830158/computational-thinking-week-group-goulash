@@ -1,4 +1,4 @@
-def check_the_number(n):
+def solution_station4(n):
     if n <= 1:
         return False
     i = 2
