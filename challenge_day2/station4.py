@@ -1,4 +1,4 @@
-def solution_station4(n):
+def solution_station_4(n):
     if n <= 1:
         return False
     i = 2
