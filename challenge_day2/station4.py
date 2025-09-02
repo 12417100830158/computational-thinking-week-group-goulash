@@ -1,5 +1,5 @@
 def check_the_number(n):
-    if n < 2:
+    if n <= 1:
         return False
     i = 2
     while i*i <= n:
