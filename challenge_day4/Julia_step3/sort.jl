@@ -21,23 +21,24 @@ for col_name in names(people_df)[2:end]
     # Convert float values that are whole numbers to integers
     col_data = map(x -> isa(x, Float64) && x == floor(x) ? Int(x) : x, people_df[!, col_name])
 
-    # Compute quartiles using only integers
-    valid_data = filter(x -> x isa Int, col_data)
+    # Keep only numeric values for quartile calculation
+    valid_data = [x for x in col_data if x isa Number]
 
     if isempty(valid_data)
         println("No valid data for column $col_name")
         continue
     end
 
+    # Compute quartiles
     quartiles = quantile(valid_data, [0.25, 0.5, 0.75])
 
-    # Replace values with categories or 'low' if they are Float64
-    new_col = map(x -> x isa Float64 ? "low" : classification_score(x, quartiles), col_data)
+    # Replace values with classification labels
+    new_col = map(x -> x isa Number ? classify_score(x, quartiles) : "low", col_data)
     people_df[!, col_name] = new_col
 end
 
 # Save the modified DataFrame back to a new CSV file
-CSV.write("data4.txt", people_df)
+CSV.write("data4.csv", people_df)
 
-# Save the modified DataFrame back to a new TXT file
-#writedlm("data4.txt", people_df, ',')
+# Optionally also save as TXT (comma-delimited)
+#writedlm("data4.txt", Tables.columntable(people_df), ',')
