@@ -1,11 +1,101 @@
 Name,Technical Skills,Soft Skills,Business Skills,Creative Skills,Academic Skills,Summary,Evaluation,Comments
-Ken,super,middle,super,low,super,super,super,4,Excellent
-Uma,low,low,low,super,middle,super,super,2.8,Good but inconsistent
-Yara,low,low,low,middle,middle,low,low,2.4,Promising
-Karen,middle,low,middle,middle,low,middle,middle,2.6,Promising
-Dave,good,good,low,good,low,good,good,3.2,Promising
-Kristen,low,good,super,low,middle,super,super,3.2,Excellent
-Paula,middle,low,middle,low,low,low,low,2.4,Promising
-Ursula,super,good,good,low,low,super,super,3.4,Excellent
-Ivy,low,low,good,super,middle,super,super,3.2,Excellent
-Roger,good,low,low,low,super,super,super,3,Excellent
+Leo,middle,super,good,good,middle,super,super,3.8,Excellent
+Liam,super,middle,low,middle,good,super,super,3.4,Excellent
+Neil,super,low,good,middle,good,super,super,3.6,Excellent
+Wesley,low,good,good,low,middle,good,good,3,Promising
+Hugo,good,low,low,low,low,low,low,2.4,Promising
+Kathy,middle,low,super,middle,good,super,super,3.4,Excellent
+Emily,low,good,low,good,low,good,good,2.8,Promising
+Bob,middle,low,middle,good,low,low,low,2.8,Promising
+Lenny,low,good,middle,low,middle,low,low,2.8,Promising
+Jeff,middle,low,low,super,super,super,super,3.4,Excellent
+Nina,low,super,low,middle,middle,super,super,3,Excellent
+Mabel,super,low,super,middle,low,super,super,3.4,Excellent
+Kristen,middle,low,super,middle,super,super,super,3.6,Excellent
+Gail,middle,middle,low,good,low,low,low,2.8,Promising
+Yasmine,low,low,good,good,low,good,good,2.8,Promising
+Tim,super,middle,middle,low,low,super,super,3,Excellent
+Yvonne,low,good,good,good,low,good,good,3.2,Promising
+Owen,low,middle,middle,middle,super,super,super,3.2,Excellent
+Fay,low,low,low,good,low,low,low,2.4,Promising
+Jack,low,low,good,low,low,low,low,2.4,Promising
+Norm,super,middle,low,middle,super,super,super,3.6,Excellent
+Duke,low,middle,low,low,middle,low,low,2.4,Promising
+Tracy,super,good,good,middle,middle,super,super,3.8,Excellent
+Rose,super,low,low,low,good,super,super,3,Excellent
+Steve,low,middle,middle,middle,good,middle,middle,3,Promising
+Irene,middle,middle,super,good,low,super,super,3.4,Excellent
+Roger,middle,low,low,middle,good,low,low,2.8,Promising
+Sam,middle,middle,low,low,good,low,low,2.8,Promising
+Victor,super,low,low,middle,low,super,super,2.8,Good but inconsistent
+Gwen,good,good,low,good,super,super,super,3.8,Excellent
+Otis,middle,middle,good,low,low,low,low,2.8,Promising
+Quinn,good,low,middle,low,low,low,low,2.6,Promising
+Ian,middle,middle,super,good,super,super,super,4,Excellent
+Megan,low,low,low,middle,middle,low,low,2.4,Promising
+Eve,low,super,low,super,good,super,super,3.6,Excellent
+Kim,good,good,good,super,low,super,super,3.8,Excellent
+Xiomara,middle,low,low,low,super,super,super,2.8,Good but inconsistent
+Louis,super,low,low,middle,middle,super,super,3,Excellent
+Leonard,middle,middle,super,low,super,super,super,3.6,Excellent
+Mindy,super,middle,middle,middle,low,super,super,3.2,Excellent
+Trevor,middle,middle,good,super,super,super,super,4,Excellent
+Oscar,good,middle,middle,low,low,low,low,2.8,Promising
+Pam,middle,super,good,middle,low,super,super,3.4,Excellent
+Grace,middle,middle,low,middle,low,middle,middle,2.6,Promising
+Upton,low,good,super,super,middle,super,super,3.8,Excellent
+Avery,good,low,low,good,super,super,super,3.4,Excellent
+Howard,low,good,low,good,middle,good,good,3,Promising
+Daisy,super,middle,good,low,low,super,super,3.2,Excellent
+Dave,low,middle,low,low,low,low,low,2.2,Promising
+Ursula,low,middle,low,super,good,super,super,3.2,Excellent
+Bill,low,low,good,super,low,super,super,3,Excellent
+Vivian,low,low,low,super,middle,super,super,2.8,Good but inconsistent
+Xyla,super,low,good,low,good,super,super,3.4,Excellent
+Ulrich,low,low,low,middle,super,super,super,2.8,Good but inconsistent
+Katie,middle,low,low,super,low,super,super,2.8,Good but inconsistent
+Preston,low,middle,good,low,super,super,super,3.2,Excellent
+Queenie,super,low,good,low,good,super,super,3.4,Excellent
+Gerald,low,middle,low,good,low,low,low,2.6,Promising
+Isaac,low,middle,middle,super,low,super,super,3,Excellent
+Nick,low,middle,low,middle,low,low,low,2.4,Promising
+Gina,low,middle,middle,middle,good,middle,middle,3,Promising
+Alice,good,super,middle,low,good,super,super,3.6,Excellent
+Arthur,super,low,middle,low,low,super,super,2.8,Good but inconsistent
+Catherine,super,low,super,low,super,super,super,3.8,Excellent
+Walter,super,low,super,middle,low,super,super,3.4,Excellent
+Amy,middle,middle,super,super,super,super,super,4.2,Excellent
+Wilma,middle,middle,low,super,low,super,super,3,Excellent
+Ned,low,middle,good,middle,middle,middle,middle,3,Promising
+Vera,middle,low,low,middle,super,super,super,3,Excellent
+Ivy,low,low,low,low,low,low,low,2,Promising
+Susie,middle,middle,low,low,middle,middle,middle,2.6,Promising
+Tina,middle,super,middle,middle,middle,super,super,3.4,Excellent
+Daniel,low,low,middle,low,middle,low,low,2.4,Promising
+Camille,middle,low,low,middle,low,low,low,2.4,Promising
+Rhonda,low,middle,good,low,good,good,good,3,Promising
+Ron,middle,low,middle,low,middle,middle,middle,2.6,Promising
+Paul,low,low,low,low,low,low,low,2,Promising
+Olivia,super,middle,low,low,low,super,super,2.8,Good but inconsistent
+Tom,good,good,good,low,low,good,good,3.2,Promising
+Quincy,middle,good,low,low,low,low,low,2.6,Promising
+Zinnia,low,low,good,good,super,super,super,3.4,Excellent
+George,middle,good,low,low,low,low,low,2.6,Promising
+Ken,low,low,good,low,good,good,good,2.8,Promising
+Clara,low,middle,low,super,middle,super,super,3,Excellent
+Mary,middle,super,low,super,low,super,super,3.4,Excellent
+Quasar,low,low,low,super,middle,super,super,2.8,Good but inconsistent
+Yogi,low,good,middle,super,low,super,super,3.2,Excellent
+Julian,low,good,low,low,low,low,low,2.4,Promising
+Ulysses,middle,low,good,low,super,super,super,3.2,Excellent
+Ulla,low,good,super,low,middle,super,super,3.2,Excellent
+Helen,low,middle,super,good,middle,super,super,3.4,Excellent
+Dexter,low,low,good,low,middle,low,low,2.6,Promising
+Carlos,low,low,low,good,low,low,low,2.4,Promising
+Xander,low,super,low,good,low,super,super,3,Excellent
+Olive,middle,middle,super,middle,middle,super,super,3.4,Excellent
+Tabitha,middle,super,middle,middle,low,super,super,3.2,Excellent
+Ella,good,good,low,low,low,good,good,2.8,Promising
+Maureen,low,low,low,low,super,super,super,2.6,Good but inconsistent
+Wanda,middle,low,super,low,low,super,super,2.8,Good but inconsistent
+Angela,super,super,good,low,low,super,super,3.6,Excellent

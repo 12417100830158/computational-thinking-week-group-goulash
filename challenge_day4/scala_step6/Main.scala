@@ -4,7 +4,7 @@ import scala.util.Try
 
 object Main {
   def main(args: Array[String]): Unit = {
-    val filePath = "data6.txt"
+    val filePath = "testdata/data6.txt"
 
     val src = scala.io.Source.fromFile(filePath, "UTF-8")
     try {
@@ -30,7 +30,7 @@ object Main {
       }
 
       Files.write(
-        Paths.get("data7.txt"),
+        Paths.get("testdata/data7.txt"),
         outputLines.mkString("\n").getBytes(StandardCharsets.UTF_8)
       )
     } finally {
