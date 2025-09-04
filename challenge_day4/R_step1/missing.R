@@ -7,8 +7,8 @@ if (!requireNamespace("jsonlite", quietly = TRUE)) {
 library(jsonlite)
 
 # Read the JSON file into a data frame
-file.exists("challenge_day4\\testdata\\data1.json")
-json_data <- fromJSON(readLines("challenge_day4\\testdata\\data1.json"))
+file.exists("/Users/quynhmai/Documents/GitHub/computational-thinking-week-group-goulash/challenge_day4/testdata/data1.json")
+json_data <- fromJSON(readLines("/Users/quynhmai/Documents/GitHub/computational-thinking-week-group-goulash/challenge_day4/testdata/data1.json"))
 
 # Convert the 'people' list to a data frame
 people_df <- as.data.frame(json_data$people)
@@ -33,4 +33,4 @@ json_text <- toJSON(json_data, pretty = TRUE)
 # Overwrite the original JSON file
 write(json_text, "data2.json")
 
-file.exists("challenge_day4\\testdata\\data1.json")
+file.exists("/Users/quynhmai/Documents/GitHub/computational-thinking-week-group-goulash/challenge_day4/testdata/data1.json")
