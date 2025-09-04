@@ -9,12 +9,12 @@ import (
 )
 
 type Person struct {
-	Name           string `json:"name"`
-	TechnicalSkills float64    `json:"Technical methods"`
-	SoftSkills      float64    `json:"Soft Skills"`
-	BusinessSkills  float64    `json:"Business Skills"`
-	CreativeSkills  float64    `json:"Creative Skills"`
-	AcademicSkills  float64    `json:"Academic Skills"`
+	Name            string  `json:"name"`
+	TechnicalSkills float64 `json:"Technical Skills"`
+	SoftSkills      float64 `json:"Soft Skills"`
+	BusinessSkills  float64 `json:"Business Skills"`
+	CreativeSkills  float64 `json:"Creative Skills"`
+	AcademicSkills  float64 `json:"Academic Skills"`
 }
 
 type People struct {
