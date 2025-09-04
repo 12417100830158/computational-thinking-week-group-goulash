@@ -17,7 +17,7 @@ fn main() -> io::Result<()> {
     for (indexing, line) in reader.lines().enumerate() {
         let line = line?;
         
-        if index == 0 {
+        if indexing == 0 {
             // This is the header, add "Evaluation" to it and write to file
             writeln!(output, "{},Evaluation", line)?;
             continue;
